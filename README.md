@@ -1,0 +1,2 @@
+# Amazon-Prime-Content-Analytics-Using-EDA-Machine-Learning-
+**Amazon Prime Content Analytics Using EDA &amp; Machine Learning** analyzes Amazon Prime Movies and TV Shows to uncover content trends and insights. The project includes data cleaning, EDA, and machine learning to identify patterns, segment similar content, and generate data-driven insights for better content analysis and decision-making.
